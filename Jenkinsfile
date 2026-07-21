@@ -24,7 +24,7 @@ pipeline {
                 sh 'docker rm pettrack-container || true'
                 
                 // Levantamos el nuevo contenedor mapeándolo al puerto 8080
-                sh 'docker run -d --name pettrack-container -p 8080:80 pettrack-pro:latest'
+                sh 'docker run -d --name pettrack-container -p 8085:80 pettrack-pro:latest'
             }
         }
     }
