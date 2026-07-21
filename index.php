@@ -28,7 +28,7 @@
             <div class="summary-box">
                 <div class="price-row">
                     <span class="price-label">Subtotal a procesar</span>
-                    <span class="price-value">$30.00</span>
+                    <span class="price-value">$40.00</span>
                 </div>
             </div>
 
