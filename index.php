@@ -22,7 +22,7 @@
 
         <div class="info-section">
             <span class="badge-tech">GPS & MONITOREO</span>
-            <h1 class="product-title">Smart Collar</h1>
+            <h1 class="product-title">Smart Collar Pro</h1>
             <p class="product-desc">Mantén a tu mejor amigo seguro. Monitoreo en tiempo real, historial de actividad y batería de 14 días. Resistente al agua (IP68).</p>
             
             <div class="summary-box">
